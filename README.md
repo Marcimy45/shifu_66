@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# Shifushishi
 
-Description of the app ...
+Blab Bla
 
 ## Demo App
 
